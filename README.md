@@ -1,4 +1,4 @@
-### projetopassosparafuturo
+### Projeto Passos Para Futuro
 
 Projeto destinado a população das comunidades carentes de Osasco/SP
 
